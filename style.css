@@ -1,0 +1,22 @@
+*{
+    
+    padding: 0;
+}
+body{
+    background-image: url(photo.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+#time{
+    color: beige;
+    background-color: hsla(0, 82%, 46%, 0.155);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+    backdrop-filter: blur(10px);
+
+
+}
