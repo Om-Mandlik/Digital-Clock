@@ -1,1 +1,1 @@
-this repo contain code of digital clock
+this repo contain code of digital clock. it have code of html css js with logic ticking time
